@@ -1,1 +1,13 @@
 This is the description file for the to-do app with all the details of the file
+Product description
+My To-do App is a to-do list application that provides users with the ability to create different to-do lists. A single to-do list can have many to-do items. 
+Required Features
+Users can create an account and log in.
+Users can create a todo-list.
+Users can add items to the to-do list.
+Users can remove items from the to-do list.
+Once the item has been finished users can mark it as finished such that its crossed out on the list.
+Users can delete the whole to-do list at once which also deletes the corresponding to-do list items .
+
+ Optional Features
+Users can share their to do list with other users who have accounts.
